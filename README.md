@@ -152,7 +152,7 @@ GET /user/singletrainer/:id
 | :----: | 
    
 
-[FRONTEND](https://go-fit.netlify.app/)
+[FRONTEND](https://gofitwebsite.netlify.app/)
 
 [BACKEND](https://rich-plum-barracuda-fez.cyclic.app/)
 
